@@ -1,0 +1,8 @@
+{
+  "name": "test-lib-repo",
+  "workspaces": [
+    "datatypes",
+    "helpers"
+  ],
+  "packageManager": "yarn@4.2.2"
+}
